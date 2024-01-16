@@ -1,0 +1,25 @@
+{
+    "name": "Cody Smith",
+    "age": 65,
+    "address": {
+        "street": "Stacy Parks",
+        "city": "Smithside",
+        "state": "Colorado",
+        "zip": "63953"
+    },
+    "contact": {
+        "phone": "+1-738-512-6999x6052",
+        "servicePhone": "800989889"
+    },
+    "birthday": "1960-04-12",
+    "ip": "72.33.55.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge southern white better bring real. Parent production eight control sport. Down firm resource more. When receive down artist team voice.",
+        "bio": "Consumer century increase style computer. Out child require team none kind like. Card choose situation onto field."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
