@@ -1,0 +1,25 @@
+{
+    "name": "Karen Thornton",
+    "age": 5,
+    "address": {
+        "street": "Christopher Orchard",
+        "city": "Smithfurt",
+        "state": "Illinois",
+        "zip": "75627"
+    },
+    "contact": {
+        "phone": "236-284-0679",
+        "servicePhone": "800967621"
+    },
+    "birthday": "2020-18-06",
+    "ip": "115.28.37.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Best lawyer as draw serious. Red history language participant movement box. Trip letter into big training day over go.",
+        "bio": "Left development eight skin night. While loss risk. Tell however small executive lose.\nFront budget choice material bad. Challenge by pretty you still serious. Industry stay something although staff."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
