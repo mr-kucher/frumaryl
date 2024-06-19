@@ -1,0 +1,25 @@
+{
+    "name": "Steven Flores",
+    "age": 25,
+    "address": {
+        "street": "Susan Mills",
+        "city": "Rodriguezville",
+        "state": "New York",
+        "zip": "53710"
+    },
+    "contact": {
+        "phone": "989-311-6683",
+        "servicePhone": "800849686"
+    },
+    "birthday": "2000-03-05",
+    "ip": "7.168.82.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability key cause house official mission where hear. Commercial cut fire data. Hospital establish audience.\nApply ability yard. Eye key again treatment myself follow join. Consumer watch clear start.",
+        "bio": "Practice finish church manage study. Start ball put today office car suffer management.\nHit since each few state Mrs data. Local right size near artist necessary."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
