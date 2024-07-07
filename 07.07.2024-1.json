@@ -1,0 +1,25 @@
+{
+    "name": "Derek Odonnell",
+    "age": 57,
+    "address": {
+        "street": "Spence Lights",
+        "city": "North Alejandrofort",
+        "state": "Georgia",
+        "zip": "36047"
+    },
+    "contact": {
+        "phone": "(983)444-4747x3229",
+        "servicePhone": "800148583"
+    },
+    "birthday": "1968-01-09",
+    "ip": "170.190.29.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Major power person still under everybody according. Man say bank bar tonight more.\nSometimes air along. American cell marriage change.\nInvolve top without write company. Take style list.",
+        "bio": "Treatment professional cell. Charge push no development.\nMarriage out energy late participant use begin. Group fish including. Personal lawyer us itself here wide rock."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
