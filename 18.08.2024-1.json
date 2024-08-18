@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Harris",
+    "age": 36,
+    "address": {
+        "street": "Riddle Gateway",
+        "city": "South Davidville",
+        "state": "Kentucky",
+        "zip": "50217"
+    },
+    "contact": {
+        "phone": "592.864.5199x59412",
+        "servicePhone": "800492360"
+    },
+    "birthday": "1989-16-12",
+    "ip": "214.88.67.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Find little production even ever effort.\nSimply real manager huge well. Trouble air job mother free. Soldier ground action among father forget color allow. Determine more along at dark look out.",
+        "bio": "Do lead particularly tax trip. Base impact six career data head. During feel tonight check easy nation enjoy."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
