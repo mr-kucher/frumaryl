@@ -1,0 +1,25 @@
+{
+    "name": "Grace Moore DDS",
+    "age": 4,
+    "address": {
+        "street": "Hopkins Trace",
+        "city": "New Jason",
+        "state": "Montana",
+        "zip": "20425"
+    },
+    "contact": {
+        "phone": "5772024550",
+        "servicePhone": "800744399"
+    },
+    "birthday": "2021-20-03",
+    "ip": "26.41.71.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Like throw food culture. Positive study nearly door rest left. Home late protect population where result firm.",
+        "bio": "Turn sell perhaps fast cover product development black. Bit course painting responsibility environmental the like.\nTown chance street capital final result. Avoid wear situation ask."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
