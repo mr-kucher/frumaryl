@@ -1,0 +1,25 @@
+{
+    "name": "Monique Todd",
+    "age": 105,
+    "address": {
+        "street": "Mccarty Bypass",
+        "city": "New Colleenshire",
+        "state": "Arkansas",
+        "zip": "55765"
+    },
+    "contact": {
+        "phone": "001-253-322-4487x120",
+        "servicePhone": "800254534"
+    },
+    "birthday": "1920-17-10",
+    "ip": "75.3.213.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Music go war race. International control know perhaps evening out. Structure tough certain put keep home.\nYou mission join course people.\nWhich report appear. Expert son loss quite.",
+        "bio": "That politics movie pick black road. Own change certain site will task right. Help factor energy.\nStay them increase foreign. Big trouble question left all mission pull."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
