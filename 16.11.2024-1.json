@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Joseph",
+    "age": 71,
+    "address": {
+        "street": "Adams Summit",
+        "city": "Sarahport",
+        "state": "Delaware",
+        "zip": "13044"
+    },
+    "contact": {
+        "phone": "825-595-6262x50496",
+        "servicePhone": "800074995"
+    },
+    "birthday": "1954-03-11",
+    "ip": "222.140.212.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Response attack bring less. Around which care town medical recognize.\nGarden director security operation southern TV travel. Political its indeed. Society he name physical significant shoulder three.",
+        "bio": "Affect half certain door middle. Economy democratic put blue drop laugh actually.\nListen age who before foreign. Find like unit. Four car huge ahead often indeed."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
