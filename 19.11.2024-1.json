@@ -1,0 +1,25 @@
+{
+    "name": "Brian Mclaughlin",
+    "age": 106,
+    "address": {
+        "street": "Adkins Overpass",
+        "city": "Ginaland",
+        "state": "Nevada",
+        "zip": "27879"
+    },
+    "contact": {
+        "phone": "(383)636-4063",
+        "servicePhone": "800289044"
+    },
+    "birthday": "1919-26-06",
+    "ip": "170.71.206.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Response else recent week. Argue Republican will win often. Tend safe size value worker dream word get. Character position car in material though up.",
+        "bio": "Play participant economy prove. Ok site likely writer coach interest ok. Forget miss serve particular fast teach evening product."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
