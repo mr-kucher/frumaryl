@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Miller",
+    "age": 12,
+    "address": {
+        "street": "Christopher Greens",
+        "city": "New Tarahaven",
+        "state": "Rhode Island",
+        "zip": "09108"
+    },
+    "contact": {
+        "phone": "(353)861-3786x0514",
+        "servicePhone": "800694254"
+    },
+    "birthday": "2013-14-01",
+    "ip": "141.83.188.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax compare nor piece stage control. Human citizen note key structure. Order which off sell.",
+        "bio": "Energy require ability health mean dinner. This woman maintain interview drop space.\nRate her remain those experience center bed require."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
