@@ -1,0 +1,25 @@
+{
+    "name": "Michael Brennan",
+    "age": 98,
+    "address": {
+        "street": "Cheyenne Land",
+        "city": "Danielsfurt",
+        "state": "Oregon",
+        "zip": "43979"
+    },
+    "contact": {
+        "phone": "539-841-9322x545",
+        "servicePhone": "800555301"
+    },
+    "birthday": "1927-17-05",
+    "ip": "183.7.177.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Its suffer rate outside bit American left.\nDiscussion word standard. Receive oil city process.",
+        "bio": "Class picture child any. Mention much wear human nor how.\nDaughter away film name. Skill cover reach style consider.\nSpend state message spend easy push. Wonder politics save."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
