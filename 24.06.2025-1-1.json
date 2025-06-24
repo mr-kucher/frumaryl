@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Johnson",
+    "age": 54,
+    "address": {
+        "street": "Bonnie Brooks",
+        "city": "New Wendyview",
+        "state": "North Carolina",
+        "zip": "68564"
+    },
+    "contact": {
+        "phone": "(690)688-8793",
+        "servicePhone": "800494306"
+    },
+    "birthday": "1971-28-01",
+    "ip": "166.231.122.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Kid civil standard billion animal drop quickly economy. Energy red value sing hold hit. Religious white office professor when few.",
+        "bio": "Within memory during window. Guess agency various scene. Coach get discuss relate land great.\nPersonal trade foreign weight. Area seek list win as approach five."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
