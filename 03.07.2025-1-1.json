@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Galloway",
+    "age": 69,
+    "address": {
+        "street": "Heather Trafficway",
+        "city": "Esparzabury",
+        "state": "California",
+        "zip": "22256"
+    },
+    "contact": {
+        "phone": "(702)611-3671x809",
+        "servicePhone": "800589832"
+    },
+    "birthday": "1956-30-03",
+    "ip": "134.36.127.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Today along role information. Cut yet she pressure computer mother. Consider visit front out his surface check.",
+        "bio": "Look once industry fire. Ask major sometimes recognize compare send turn. Start toward whether score play economy."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}

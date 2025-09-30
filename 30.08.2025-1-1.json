@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Tran",
+    "age": 54,
+    "address": {
+        "street": "Ronald Walks",
+        "city": "North Jeffrey",
+        "state": "Pennsylvania",
+        "zip": "20083"
+    },
+    "contact": {
+        "phone": "+1-217-603-0705x19689",
+        "servicePhone": "800435049"
+    },
+    "birthday": "1971-02-12",
+    "ip": "61.46.45.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay writer answer table wide race. Include against teach worker.\nAccording nice eat nor. Safe rock sometimes energy. Interest read he human group activity.",
+        "bio": "When drug north knowledge think so. Town account current clearly player recognize system."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
