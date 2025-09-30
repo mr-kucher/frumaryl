@@ -1,0 +1,25 @@
+{
+    "name": "Sara Wallace",
+    "age": 68,
+    "address": {
+        "street": "Justin Pike",
+        "city": "East Timothymouth",
+        "state": "New York",
+        "zip": "40793"
+    },
+    "contact": {
+        "phone": "+1-547-452-3788",
+        "servicePhone": "800869879"
+    },
+    "birthday": "1957-27-05",
+    "ip": "104.119.24.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Huge guess blood total there then ago. Rather someone room cold image however take. Subject spring beautiful local travel. Type ahead operation capital.\nMy maybe month him effort allow car.",
+        "bio": "Music that when role skin worry enjoy attorney. Peace our wife per place save.\nOccur generation any lawyer leave. After no Democrat argue."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
