@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Bell",
+    "age": 2,
+    "address": {
+        "street": "Anderson Place",
+        "city": "Port Alejandra",
+        "state": "Minnesota",
+        "zip": "93194"
+    },
+    "contact": {
+        "phone": "964.278.9003x9809",
+        "servicePhone": "800573727"
+    },
+    "birthday": "2023-24-02",
+    "ip": "142.117.27.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Near call court require drop own him large.\nCourt similar old happen address development seven. Add still talk case. Realize window tell product.",
+        "bio": "Join study become most radio. Perform yeah else probably race. Particular myself care sing traditional.\nYourself role true others industry kitchen. Debate go employee heart."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
