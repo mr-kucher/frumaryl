@@ -1,0 +1,25 @@
+{
+    "name": "Meghan Ross MD",
+    "age": 80,
+    "address": {
+        "street": "Andrew Motorway",
+        "city": "Frankport",
+        "state": "Alabama",
+        "zip": "65346"
+    },
+    "contact": {
+        "phone": "375-585-0691",
+        "servicePhone": "800566768"
+    },
+    "birthday": "1945-19-08",
+    "ip": "212.109.204.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Fall politics system treatment partner my TV. History part avoid couple vote reflect tonight. Style suffer bad million range after expert.",
+        "bio": "Agree inside agency financial.\nSame product forward water small pretty. Relationship every entire those son cause. Herself activity statement order list per."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

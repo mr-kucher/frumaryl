@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Thornton",
+    "age": 22,
+    "address": {
+        "street": "Snow Ferry",
+        "city": "Wiseshire",
+        "state": "Maine",
+        "zip": "12754"
+    },
+    "contact": {
+        "phone": "235.539.3867x550",
+        "servicePhone": "800516519"
+    },
+    "birthday": "2003-12-12",
+    "ip": "132.220.13.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring study discuss. Great result describe important.",
+        "bio": "Reality either face never much. National as anyone Democrat event once health travel.\nDifference policy prove small. Music next environment join risk. Prevent campaign that fast since."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}

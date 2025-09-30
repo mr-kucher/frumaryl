@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Arias",
+    "age": 77,
+    "address": {
+        "street": "Perez Mount",
+        "city": "East Raymondtown",
+        "state": "Alabama",
+        "zip": "15458"
+    },
+    "contact": {
+        "phone": "001-711-939-8612x1761",
+        "servicePhone": "800122500"
+    },
+    "birthday": "1948-15-04",
+    "ip": "79.157.69.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement front reveal wife. Former effect discover daughter. Seem even true.\nTax by food your cell. Whom their course she.",
+        "bio": "Staff although purpose out. Health affect role space rather Democrat.\nGround truth beat effect measure watch first. Campaign argue wear foot.\nThousand window agency any."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
