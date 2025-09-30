@@ -1,0 +1,25 @@
+{
+    "name": "Diamond Sanchez",
+    "age": 41,
+    "address": {
+        "street": "Turner Green",
+        "city": "Clayfurt",
+        "state": "Minnesota",
+        "zip": "14917"
+    },
+    "contact": {
+        "phone": "+1-470-268-9298x4222",
+        "servicePhone": "800250749"
+    },
+    "birthday": "1984-16-12",
+    "ip": "143.85.5.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Property should size bill seat opportunity reveal. Enter fine happen national bag.\nTv section garden shake ok grow. Collection box factor top clearly inside television.",
+        "bio": "Boy board explain there section new their. Factor call law young later Congress account. Everybody himself reveal take or shoulder middle line."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
