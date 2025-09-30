@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Obrien PhD",
+    "age": 50,
+    "address": {
+        "street": "Ramirez Cove",
+        "city": "Port Helenville",
+        "state": "Tennessee",
+        "zip": "32490"
+    },
+    "contact": {
+        "phone": "001-702-497-0667",
+        "servicePhone": "800243277"
+    },
+    "birthday": "1975-28-05",
+    "ip": "50.98.148.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern probably throughout contain popular. Many movement ahead choose world gun modern next. Street campaign describe fund owner.",
+        "bio": "Message bit yeah.\nCouple decide discuss majority. Director instead modern fine happen. Suffer describe class participant."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
