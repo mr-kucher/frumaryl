@@ -1,0 +1,25 @@
+{
+    "name": "Derek Hodge",
+    "age": 21,
+    "address": {
+        "street": "Green Glen",
+        "city": "Dixonmouth",
+        "state": "Indiana",
+        "zip": "20603"
+    },
+    "contact": {
+        "phone": "(985)976-4164x03308",
+        "servicePhone": "800484102"
+    },
+    "birthday": "2004-29-10",
+    "ip": "130.33.215.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Child choice true blood. Old me senior. Number network decision beat send fly opportunity.",
+        "bio": "Discover central pick determine risk voice trip. Include dog kid player machine."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

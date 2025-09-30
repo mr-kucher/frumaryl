@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Green",
+    "age": 80,
+    "address": {
+        "street": "Dominguez Forge",
+        "city": "Jacksonton",
+        "state": "Alaska",
+        "zip": "57716"
+    },
+    "contact": {
+        "phone": "(421)640-6963x7576",
+        "servicePhone": "800495680"
+    },
+    "birthday": "1945-07-08",
+    "ip": "107.54.7.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Fund side glass. Whom range game hair teach knowledge campaign.\nPresent audience growth give. Benefit agent turn perhaps himself seat.",
+        "bio": "It mouth stay white education school sing.\nMarket help hear miss away performance. Concern story face but help speech rate."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
